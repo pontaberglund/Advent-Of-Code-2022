@@ -2,3 +2,5 @@
 Day 1 :star: :star:
 <br>
 Day 2 :star: :star:
+<br>
+Day 3 :star: :star:
