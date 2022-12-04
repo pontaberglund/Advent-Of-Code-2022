@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Arrays;
 
-public class D3Part2 {
+public class Part2 {
     public static void main(String[] args) throws Exception {
 
         File file = new File("C:/Users/ponta/Documents/Advent-Of-Code-2022/Day 1/input.txt");
